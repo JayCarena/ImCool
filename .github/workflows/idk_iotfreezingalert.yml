@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'IoTFreezingAlert'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C99EA24906B84133BB509ECA7513DA19 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_594545C3F88D4A3FB6E070D03B1EF33F }}
